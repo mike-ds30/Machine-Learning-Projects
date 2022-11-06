@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-These are various machine learning projects I have created which showcases my problem solving and programming skills.
+These are various machine learning projects I have created showcasing my skills in using Python and its various libraries available for faster computations. These projects center around predicting data based on preexisting data, in order to predict trends and classify various types of data. These projects also showcase my problem solving and researching skills, which I use to create the various algorithms used in order to predict various types of data.
